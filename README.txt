@@ -1,6 +1,3 @@
-Aquí tienes el README listo para pegar en GitHub, con formato Markdown limpio y sin problemas de visualización:
-
-````markdown
 # EmpleadosApp
 
 **EmpleadosApp** es una aplicación Java de consola que permite la gestión básica de empleados y departamentos usando una base de datos MySQL. La aplicación fue desarrollada con el objetivo de aprender interacción con bases de datos mediante JDBC y prácticas de CRUD (Create, Read, Update, Delete) en Java.
@@ -91,8 +88,3 @@ Ingresa el número de opción correspondiente y los datos solicitados según cor
 ## 👩‍💻 Autor
 
 Desarrollado por **Natasha Solange Marcos Curbalán**.
-
-```
-
-¿Quieres que también te prepare un ejemplo de **sección de licencias** (MIT, GPL, etc.) para añadir al final del README, por si planeas hacerlo público?
-```
