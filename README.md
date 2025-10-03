@@ -28,11 +28,12 @@
 
 1. **Clona este repositorio**
 
-   ```bash
+   ```
+   bash
    git clone https://github.com/usuario/EmpleadosApp.git
    cd EmpleadosApp
-````
-````
+   ````
+   
 2. **Configura la base de datos**
 
    Ejecuta en MySQL:
