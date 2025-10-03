@@ -1,12 +1,8 @@
-***
-
 # EmpleadosApp
 
 **EmpleadosApp** es una aplicación Java de consola que permite la gestión básica de empleados y departamentos usando una base de datos MySQL. La aplicación fue desarrollada con el objetivo de aprender interacción con bases de datos mediante JDBC y prácticas de CRUD (Create, Read, Update, Delete) en Java.
 
-***
-
-## Características
+# Características
 
 - Gestión de **departamentos**: alta, modificación, eliminación y listado.
 - Gestión de **empleados**: alta, modificación, eliminación y listado.
@@ -15,18 +11,14 @@
 - Validación de entradas y manejo de excepciones.
 - Uso de transacciones para asegurar la integridad de los datos.
 
-***
-
-## Requisitos
+# Requisitos
 
 - Java 17 o superior.
 - MySQL Server (corriendo localmente en `127.0.0.1:3306`).
 - Driver JDBC para MySQL.
 - Base de datos llamada `EMPLEADOS` con las tablas `DEPARTAMENTO` y `EMPLEADO`.
 
-***
-
-## Instalación
+# Instalación
 
 1. **Clona este repositorio**
 
@@ -73,13 +65,13 @@
 
 ***
 
-## Uso
+# Uso
 
 Sigue el menú interactivo en consola para realizar las distintas gestiones de empleados y departamentos. Ingresa el número de opción correspondiente y los datos solicitados según corresponda.
 
 ***
 
-## Organización del código
+# Organización del código
 
 - Toda la lógica está contenida en la clase `EmpleadosApp` dentro del paquete `com.actividad`.
 - Las operaciones disponibles son claras y están validadas para evitar errores de datos.
@@ -87,7 +79,7 @@ Sigue el menú interactivo en consola para realizar las distintas gestiones de e
 
 ***
 
-## Autor
+# Autor
 
 Desarrollado por [Natasha Solange Marcos Curbalán].
 
