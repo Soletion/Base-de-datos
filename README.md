@@ -1,6 +1,6 @@
 # EmpleadosApp
 
-**EmpleadosApp** es una aplicación Java de consola que permite la gestión básica de empleados y departamentos usando una base de datos MySQL. La aplicación fue desarrollada con el objetivo de aprender interacción con bases de datos mediante JDBC y prácticas de CRUD (Create, Read, Update, Delete) en Java.
+**EmpleadosApp** es una aplicación Java de consola que permite la gestión básica de empleados y departamentos usando una base de datos MySQL. La aplicación fue desarrollada como una actividad de clase de Desarrollo de Aplicaciones Web con el objetivo de aprender interacción con bases de datos mediante JDBC y prácticas de CRUD (Create, Read, Update, Delete) en Java.
 
 ---
 
